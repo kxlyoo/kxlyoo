@@ -36,7 +36,7 @@ Built entirely from the browser using GitHub Codespaces and Actions, with a PS2 
 
 ## Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danijelculjak/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danijelculjak/)
 [![Email](https://img.shields.io/badge/Email-culjak.d05%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:culjak.d05@gmail.com)
 
 <br>
